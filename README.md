@@ -18,3 +18,9 @@ Which cuisines are served the most at vegetarian restaurants?
 
 # Toos Used
 * Tableau
+
+# The Gif
+![The Visualizations](https://github.com/mrbalikci/vegan-restaurants-analysis/blob/master/vegan.gif)
+
+# The Link to this Project: 
+[Click Here](https://public.tableau.com/views/vegan-restaurants/VeganStory?:embed=y&:display_count=yes&publish=yes)
